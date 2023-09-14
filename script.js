@@ -10,7 +10,7 @@ $('.alert-k1').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1GNWuSyYWt6MEdhAFXzgSqCTKwAiO-h1y/view?usp=drive_link">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1GNWuSyYWt6MEdhAFXzgSqCTKwAiO-h1y/view?usp=drive_link">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -27,7 +27,7 @@ $('.alert-k2').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/drive/folders/1Mx8gK1ICPoO7rn8h_JnzXhvZonFk3Wmt?usp=sharing">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/drive/folders/1Mx8gK1ICPoO7rn8h_JnzXhvZonFk3Wmt?usp=sharing">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -61,7 +61,7 @@ $('.alert-k4').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/drive/folders/1SUsiNafqtLUAUpli8GP6XZJAcRxHMeEe?usp=sharing">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/drive/folders/1SUsiNafqtLUAUpli8GP6XZJAcRxHMeEe?usp=sharing">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
