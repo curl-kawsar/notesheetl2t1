@@ -96,7 +96,7 @@ $('.alert-k6').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="#">🔒 Upcoming</a>',
+    confirmButtonText: '<a href="https://drive.google.com/drive/folders/15B_f2e72up39TM5N3m_leTx_oB9homGg?usp=drive_link">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
