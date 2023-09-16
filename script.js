@@ -130,7 +130,7 @@ $('.alert-k8').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="#">🔒 Upcoming</a>',
+    confirmButtonText: '<a href="https://drive.google.com/drive/folders/1qNNOVckI7FNPYHpclR1tA8AXYXYePDUD?usp=drive_link">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
